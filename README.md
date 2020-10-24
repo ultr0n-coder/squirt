@@ -4,21 +4,21 @@ Apologies to those PRs that got hosed by decoupling squirt.io from the bookmarkl
 
 # Squirt
 
-A speed reading bookmarklet.
+A speed reading bookmarket.
 
 ## Features
 
-- automatically extracts text from blogs and articles
-- manual text selection
-- gorgeous
-- no external API dependencies
+--> Automatically extracts text from blogs and articles
+--> Manual text selection
+--> Gorgeous
+--> No external API dependencies
 
 
 ## Sister Projects
 
 * [Spritz](http://www.spritzinc.com/)
 * [OpenSpritz](https://github.com/Miserlou/OpenSpritz)
-* [OpenSpritz-Android](https://github.com/OnlyInAmerica/OpenSpritz-Android) - An Android Spritz ePub Reader by [@OnlyInAmerica](https://github.com/OnlyInAmerica). Also works with Google Glass!
+* [OpenSpritz-Android](https://github.com/OnlyInAmerica/OpenSpritz-Android) - An Android Spritz ePub Reader by [@OnlyInAmerica](https://github.com/OnlyInAmerica). Also works with Google Glass!!!
 * [SpritzerTextView](https://github.com/andrewgiang/SpritzerTextView) - An Android Spritz View by [@andrewgiang](https://github.com/andrewgiang)
 * [speedread](https://github.com/pasky/speedread) - A terminal Spritzer. by [@pasky](https://github.com/pasky)
 * [jetzt](https://github.com/ds300/jetzt) - jetzt, a Spritz Chrome extension by [@ds300](https://github.com/ds300)
